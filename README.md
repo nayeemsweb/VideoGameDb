@@ -1,1 +1,1 @@
-# VideoGameDb
+# Video Game Database
